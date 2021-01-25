@@ -1,0 +1,14 @@
+C:\Users\ivisc\source\repos\MaxSubArray\MaxSubArray\bin\Debug\MaxSubArray.exe.config
+C:\Users\ivisc\source\repos\MaxSubArray\MaxSubArray\bin\Debug\MaxSubArray.exe
+C:\Users\ivisc\source\repos\MaxSubArray\MaxSubArray\bin\Debug\MaxSubArray.pdb
+C:\Users\ivisc\source\repos\MaxSubArray\MaxSubArray\obj\Debug\MaxSubArray.csprojAssemblyReference.cache
+C:\Users\ivisc\source\repos\MaxSubArray\MaxSubArray\obj\Debug\MaxSubArray.csproj.CoreCompileInputs.cache
+C:\Users\ivisc\source\repos\MaxSubArray\MaxSubArray\obj\Debug\MaxSubArray.exe
+C:\Users\ivisc\source\repos\MaxSubArray\MaxSubArray\obj\Debug\MaxSubArray.pdb
+C:\Users\ivisc\OneDrive\Documents\Davenport\Winter 2021\CSCI445 (Design & Analysis of Algorithms)\Assignment 1\MaxSubArray\MaxSubArray\bin\Debug\MaxSubArray.exe.config
+C:\Users\ivisc\OneDrive\Documents\Davenport\Winter 2021\CSCI445 (Design & Analysis of Algorithms)\Assignment 1\MaxSubArray\MaxSubArray\bin\Debug\MaxSubArray.exe
+C:\Users\ivisc\OneDrive\Documents\Davenport\Winter 2021\CSCI445 (Design & Analysis of Algorithms)\Assignment 1\MaxSubArray\MaxSubArray\bin\Debug\MaxSubArray.pdb
+C:\Users\ivisc\OneDrive\Documents\Davenport\Winter 2021\CSCI445 (Design & Analysis of Algorithms)\Assignment 1\MaxSubArray\MaxSubArray\obj\Debug\MaxSubArray.csprojAssemblyReference.cache
+C:\Users\ivisc\OneDrive\Documents\Davenport\Winter 2021\CSCI445 (Design & Analysis of Algorithms)\Assignment 1\MaxSubArray\MaxSubArray\obj\Debug\MaxSubArray.csproj.CoreCompileInputs.cache
+C:\Users\ivisc\OneDrive\Documents\Davenport\Winter 2021\CSCI445 (Design & Analysis of Algorithms)\Assignment 1\MaxSubArray\MaxSubArray\obj\Debug\MaxSubArray.exe
+C:\Users\ivisc\OneDrive\Documents\Davenport\Winter 2021\CSCI445 (Design & Analysis of Algorithms)\Assignment 1\MaxSubArray\MaxSubArray\obj\Debug\MaxSubArray.pdb
